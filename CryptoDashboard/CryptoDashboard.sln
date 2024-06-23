@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoDashboard.Api", "CryptoDashboard.Api\CryptoDashboard.Api.csproj", "{C53AB740-82EF-4649-896F-F144B3AA886D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoDashboard.Client", "CryptoDashboard.Client\CryptoDashboard.Client.csproj", "{D77039C4-35E6-4E58-8F47-4F615081BE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53AB740-82EF-4649-896F-F144B3AA886D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53AB740-82EF-4649-896F-F144B3AA886D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53AB740-82EF-4649-896F-F144B3AA886D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53AB740-82EF-4649-896F-F144B3AA886D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77039C4-35E6-4E58-8F47-4F615081BE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77039C4-35E6-4E58-8F47-4F615081BE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77039C4-35E6-4E58-8F47-4F615081BE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77039C4-35E6-4E58-8F47-4F615081BE12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F669E17-C638-44E2-A05C-34F0E0B2885B}
+	EndGlobalSection
+EndGlobal
